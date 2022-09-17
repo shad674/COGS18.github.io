@@ -6,8 +6,8 @@ output:
 
 # COGS 18: Introduction to Python
 
-**Winter 2022**  
-**MWF 8-8:50 (Zoom Lecture)**
+**Fall 2022**  
+**MWF 8-8:50 (Peterson Hall 110)**
 
 ---
 
@@ -29,7 +29,7 @@ Through all of this, I'm here to support your learning! While regular deadlines 
 
 |       Role | Name                                                       | Coding Lab | Office Hours |
 | ---------: | :--------------------------------------------------------- | :--------- | :----------- |
-| Instructor | Prof Ellis ([jfleischer@ucsd.edu](mailto:sellis@ucsd.edu)) | --         | TBH          |
+| Instructor | Prof Jason ([jfleischer@ucsd.edu](mailto:sellis@ucsd.edu)) | --         | TBH          |
 |         TA | Pooja Pathak                                               | TBH        | TBH          |
 |         TA | Shivani Bhakta                                             | TBH        | TBH          |
 |         IA | Jose Deleon                                                | TBH        | TBH          |
